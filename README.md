@@ -1,20 +1,13 @@
-# Task 4 – Simple Multi-Page Website
+# Task 3 – Responsive Layout using Flexbox
 
-This project is a simple multi-page personal profile website created as part of a
-Web Development Internship.
-
-## Pages Included
-- Home
-- About
-- Skills
-- Contact
+This project demonstrates a responsive personal profile webpage created using CSS Flexbox.
+Flexbox is used for navigation, profile layout, and skill cards.
 
 ## Features
-- Multiple HTML pages
-- Common navigation bar
-- Reusable CSS file
-- Proper relative linking between pages
+- Flexbox-based navigation bar
+- Responsive skill cards using flex-wrap
+- Mobile-friendly design
 
 ## Technologies Used
 - HTML5
-- CSS3
+- CSS3 (Flexbox)
